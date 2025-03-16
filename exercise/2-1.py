@@ -1,2 +1,4 @@
-print(100, "+", 200, "=", 100 + 200)
-print(200, "+", 300, "+", 400, "=", 200 + 300 + 400)
+width = 30
+height = 60
+area = width * height
+print("사각형의 면적:",area)
