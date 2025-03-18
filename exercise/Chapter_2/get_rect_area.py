@@ -1,4 +1,2 @@
-width = 30
-height = 60
-area = width * height
-print("사각형의 면적:",area)
+leng = int(input("정사각형의 밑변을 입력하시오 : "))
+print("정사각형의 면적 :", leng ** 2)
